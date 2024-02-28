@@ -1,3 +1,3 @@
 # 🏳 Flag Countries
 
-![flag countries](./src/assets/image-site-flag-countrie.jpg)
+![flag countries](./src/assets/img/image-site-flag-countrie.jpg)
