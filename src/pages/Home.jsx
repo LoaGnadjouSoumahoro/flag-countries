@@ -1,10 +1,12 @@
+import Countries from "../components/Countries";
 import Navigation from "../components/Navigation";
 
 const Home = () => {
   return (
     <div>
       <Navigation />
-      <h1>Home Page</h1>
+
+      <Countries />
     </div>
   );
 };
